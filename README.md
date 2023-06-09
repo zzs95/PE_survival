@@ -15,7 +15,5 @@ Follow official guidance to install [Pytorch][torch_link].
 
 Backbone models:
  1. PENet: [penet]
- 2. GatorTron: [GatorTron]
 
-[penet]:https://github.com/marshuang80/penet
-[GatorTron]:https://huggingface.co/AshtonIsNotHere/GatorTron-OG
+[penet]:https://github.com/marshuang80/
